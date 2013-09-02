@@ -1,13 +1,13 @@
 [
     {
-	"project": "private",	
-        "repository": "awayss/android_device_samsung_aries-common",
+	"project": "awayss",	
+        "repository": "android_device_samsung_aries-common",
         "target_path": "device/samsung/aries-common",
 	"branch": "cos"
     },
     {
-        "project": "private",
-        "repository": "aways-CR/android_device_samsung_galaxysmtd",
+        "project": "aways-CR",
+        "repository": "android_device_samsung_galaxysmtd",
         "target_path": "device/samsung/galaxysmtd",
         "branch": "cos"
      },
@@ -30,8 +30,8 @@
 	"branch": "cm-10.2"
     },
     {
-        "project": "private",
-        "repository": "aways/proprietary_vendor_samsung",
+        "project": "aways",
+        "repository": "proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "branch": "jb2"
     },
