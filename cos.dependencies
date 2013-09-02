@@ -8,7 +8,7 @@
     {
         "project": "private",
         "repository": "aways-CR/android_device_samsung_galaxysmtd",
-        "target_path": "vendor/samsung/i9100",
+        "target_path": "device/samsung/galaxysmtd",
         "branch": "cos"
      },
     {
