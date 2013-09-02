@@ -1,7 +1,7 @@
 [
     {
 	"project": "private",	
-        "repository": "aways-CR/android_device_samsung_aries-common",
+        "repository": "awayss/android_device_samsung_aries-common",
         "target_path": "device/samsung/aries-common",
 	"branch": "cos"
     },
