@@ -1,0 +1,38 @@
+[
+    {
+	"project": "github",	
+        "repository": "awayss/android_device_samsung_aries-common",
+        "target_path": "device/samsung/aries-common",
+	"branch": "cos"
+    },
+    {
+        "project": "github",
+        "repository": "awayss/android_device_samsung_galaxysmtd",
+        "target_path": "vendor/samsung/i9100",
+        "branch": "cos"
+     },
+    {
+	"project": "CyanogenMod",
+        "repository": "android_kernel_samsung_aries",
+        "target_path": "kernel/samsung/aries",
+	"branch": "cm-10.2"
+    },
+    {
+	"project": "CyanogenMod",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+	"branch": "cm-10.2"
+    },
+    {
+	"project": "CyanogenMod",
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+	"branch": "cm-10.2"
+    },
+    {
+        "project": "github",
+        "repository": "aways/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "jb2"
+    },
+]
