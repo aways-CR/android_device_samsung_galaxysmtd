@@ -1,13 +1,13 @@
 [
     {
-	"project": "github",	
-        "repository": "awayss/android_device_samsung_aries-common",
+	"project": "private",	
+        "repository": "aways-CR/android_device_samsung_aries-common",
         "target_path": "device/samsung/aries-common",
 	"branch": "cos"
     },
     {
-        "project": "github",
-        "repository": "awayss/android_device_samsung_galaxysmtd",
+        "project": "private",
+        "repository": "aways-CR/android_device_samsung_galaxysmtd",
         "target_path": "vendor/samsung/i9100",
         "branch": "cos"
      },
@@ -30,7 +30,7 @@
 	"branch": "cm-10.2"
     },
     {
-        "project": "github",
+        "project": "private",
         "repository": "aways/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "branch": "jb2"
